@@ -1,0 +1,18 @@
+dependencies:
+- name: daytrader-accounts
+  repository: file://../daytrader-accounts/
+  version: 1.0.17
+- name: daytrader-gateway
+  repository: file://../daytrader-gateway/
+  version: 1.0.17
+- name: daytrader-portfolios
+  repository: file://../daytrader-portfolios/
+  version: 1.0.17
+- name: daytrader-quotes
+  repository: file://../daytrader-quotes/
+  version: 1.0.17
+- name: daytrader-web
+  repository: file://../daytrader-web/
+  version: 1.0.17
+digest: sha256:ce030517616165be0cdf5c06dc8f09cbe05a8faf443261576b6b5632a88d65c6
+generated: 2018-12-21T00:11:29.989375512Z
